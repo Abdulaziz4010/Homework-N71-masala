@@ -69,10 +69,12 @@
 
 // 11 - masala
 
-let a = 123;
+// let a = 453;
 
-let b = a / 100;
+// let b = a / 100;
 
-let c = a % 100;
+// let c = (a % 100) / 10;
 
-console.log(c);
+// let e = a % 10;
+
+// console.log(parseInt(b + c + e));
